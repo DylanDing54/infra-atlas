@@ -4,6 +4,8 @@ An English catalogue of 1,133 systems-research papers, with conference navigatio
 
 ## Browse
 
+Live catalogue: [Infra Atlas](https://dylanding54.github.io/infra-atlas/).
+
 Open `index.html` directly or serve this directory as a static website. All classification data is embedded, so browsing needs no backend. Publication links open the original source. Six items without verified publication URLs use a clearly labeled title search. Full-text PDFs are not included.
 
 Tags within a facet use OR; facets combine with AND. The FACETS overview always shows whole-library coverage. Individual tag counts respond to other active filters. Bookmarks remain in the visitor's browser. Filtered results can be exported as JSON.
